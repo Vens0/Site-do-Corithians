@@ -15,3 +15,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
+#noticias{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+}
+
