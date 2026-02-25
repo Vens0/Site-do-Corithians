@@ -60,3 +60,9 @@ body{
 .jogado{
     width: 50px;
 }
+
+.jogador{
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-around;
+}
